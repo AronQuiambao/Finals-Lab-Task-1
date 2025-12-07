@@ -3,16 +3,13 @@
 ---
 
 ### 📝 Description:
-> A python program that uses basic Input-Output/Operators/Escaped Sequence and Placeholders/Type Casting.
+> A python program that uses the Encapsulation for other usage of specific setters and getters.
 
 ---
 
 ### 🎯 Agenda:
-- Act 1: using print Statement
-- Act 2: using Escape Sequence
-- Act 3: using Input Operators
-- Act 4: using Place Holders
-- Act 5: using Type Casting
+- Act 1: using Encapsulated Constructors
+
 
 ---
 
